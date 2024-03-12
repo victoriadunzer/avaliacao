@@ -1,0 +1,88 @@
+header{
+    text-align: center;
+}
+body{
+    background-image: url(../../Visual/imagens/geral/fundo.png) ;
+}
+#um{
+    background-color: greenyellow;
+    width: 150px;
+    text-align: center;
+}
+#dois{
+    background-color: gray;
+    width: 150px;
+    text-align: center;
+}
+#tres{
+    background-color: green;
+    width: 150px;
+    color: white;
+    text-align: center;
+}
+#quatro{
+    background-color: purple;
+    width: 150px;
+    color: white;
+    text-align: center;
+}
+#cinco{
+    background-color: black;
+    width: 150px;
+    color: white;
+    text-align: center;
+}
+#seis{
+    background-color: rgb(0, 255, 213);
+    width: 150px;
+    text-align: center;
+}
+#sete{
+    background-color: yellow;
+    width: 150px;
+    text-align: center;
+}
+#s1{
+    display: flex;
+    padding-left: 14%; 
+}
+#s2{
+    display: flex;
+    padding-left: 24%; 
+}
+#s3{
+    display: flex;
+    padding-left: 34%; 
+}
+#s4{
+    display: flex;
+    padding-left: 44%; 
+}
+#s5{
+    display: flex;
+    padding-left: 54%; 
+}
+#s6{
+    display: flex;
+    padding-left: 64%; 
+}
+#s7{
+    display: flex;
+    padding-left: 74%; 
+}
+#imgL1{
+    display: flex;
+    justify-content: space-around;
+}
+#imgL1 img{
+    width: auto;
+    height: 250px;
+}
+#imgL2{
+    display: flex;
+    justify-content: space-around;
+}
+#imgL2 img{
+    width: auto;
+    height: 250px;
+}
